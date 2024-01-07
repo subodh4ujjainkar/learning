@@ -1,4 +1,4 @@
-# Step by ste guide to Docker installation in Ubuntu
+# Step by step guide to Docker installation in Ubuntu
 1. Update repositories
    > `sudo apt update`
 
